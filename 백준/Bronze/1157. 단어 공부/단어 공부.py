@@ -1,5 +1,3 @@
-import sys
-
 string=input()
 string=string.upper()
 list1=list(set(string))
